@@ -4,3 +4,4 @@ __pycache__/
 chroma_db/
 faiss_index/
 .env
+.streamlit/secrets.toml
